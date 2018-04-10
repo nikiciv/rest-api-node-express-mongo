@@ -1,0 +1,23 @@
+{
+  "name": "rest-api-node-express-mongo",
+  "version": "1.0.1",
+  "description": "Node.js RESTful API Project(Shop API Project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikiciv/rest-api-node-express-mongo.git"
+  },
+  "author": "Ivo Nikic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikiciv/rest-api-node-express-mongo/issues"
+  },
+  "homepage": "https://github.com/nikiciv/rest-api-node-express-mongo#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
